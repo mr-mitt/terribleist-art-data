@@ -1,7 +1,7 @@
 [
   {
     "id": "001",
-    "title": "The Bottle in The Room",
+    "title": "The Breast in The Room",
     "description": "This fascinating sculptural piece recalls the gargoyles of Notre-Dame, though with considerably less architectural competence and spiritual significance. Constructed from a fallen bird box discovered in a garden, this work represents the Terribleist principle of resurrection through renovation—transforming garden debris into high art through sheer audacity.",
     "initialValue": 15,
     "dateCreated": "1987-09-24",
@@ -41,6 +41,29 @@
     },
     "technique": "awful ",
     "odourProfile": "fresh",
+    "entertainmentValue": "",
+    "philosophicalPotency": "",
+    "investmentAnalysis": ""
+  },
+  {
+    "id": "003",
+    "title": "Bridge",
+    "description": "This is a boring artwork, made during a depression in the weather",
+    "initialValue": 88,
+    "dateCreated": "2012-07-12",
+    "category": "Collage",
+    "posterUrl": "https://res.cloudinary.com/dm3d7t3oh/image/upload/003.jpg",
+    "originalUrl": "https://res.cloudinary.com/dm3d7t3oh/image/upload/003-original.jpg",
+    "isActive": true,
+    "materials": "toilet",
+    "weight": 55,
+    "dimensions": {
+      "height": 21,
+      "width": 21,
+      "depth": 21
+    },
+    "technique": "really stupid",
+    "odourProfile": "hrrid",
     "entertainmentValue": "",
     "philosophicalPotency": "",
     "investmentAnalysis": ""
