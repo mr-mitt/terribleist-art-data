@@ -1,0 +1,25 @@
+[
+  {
+    "id": "001",
+    "title": "The Breast in The Room",
+    "description": "This fascinating sculptural piece recalls the gargoyles of Notre-Dame, though with considerably less architectural competence and spiritual significance. Constructed from a fallen bird box discovered in a garden, this work represents the Terribleist principle of resurrection through renovation—transforming garden debris into high art through sheer audacity.",
+    "initialValue": 15,
+    "dateCreated": "1987-09-24",
+    "category": "Sculpture",
+    "posterUrl": "https://res.cloudinary.com/dm3d7t3oh/image/upload/001.jpg",
+    "originalUrl": "https://res.cloudinary.com/dm3d7t3oh/image/upload/001-original.jpg",
+    "isActive": true,
+    "materials": "Wood, metal, cheese",
+    "weight": 6,
+    "dimensions": {
+      "height": 55,
+      "width": 33,
+      "depth": 12
+    },
+    "technique": "Made with anger and resentment",
+    "odourProfile": "Ugly smell due to source materials found in old public toilets",
+    "entertainmentValue": "Reasonable potential for laughter. ",
+    "philosophicalPotency": "Poor potency. The artwork created with little consideration for ideas",
+    "investmentAnalysis": "Odourful artworks are currently unpopular unless the odour is pleasant. Urine soaked artworks aree seeing a decline"
+  }
+]
