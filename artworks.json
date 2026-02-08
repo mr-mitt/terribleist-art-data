@@ -21,5 +21,28 @@
     "entertainmentValue": "Reasonable potential for laughter. ",
     "philosophicalPotency": "Poor potency. The artwork created with little consideration for ideas",
     "investmentAnalysis": "Odourful artworks are currently unpopular unless the odour is pleasant. Urine soaked artworks aree seeing a decline"
+  },
+  {
+    "id": "002",
+    "title": "Toilet Gallery",
+    "description": "this is a test",
+    "initialValue": 15,
+    "dateCreated": "41989-02-21",
+    "category": "Painting",
+    "posterUrl": "https://res.cloudinary.com/dm3d7t3oh/image/upload/002.jpg",
+    "originalUrl": "https://res.cloudinary.com/dm3d7t3oh/image/upload/002-original.jpg",
+    "isActive": true,
+    "materials": "print",
+    "weight": 4,
+    "dimensions": {
+      "height": 29.7,
+      "width": 210,
+      "depth": 0.01
+    },
+    "technique": "awful ",
+    "odourProfile": "fresh",
+    "entertainmentValue": "",
+    "philosophicalPotency": "",
+    "investmentAnalysis": ""
   }
 ]
